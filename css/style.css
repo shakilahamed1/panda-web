@@ -43,3 +43,20 @@ color: white;
 .catagoris img{
     width: 100px;
 }
+
+
+.card{
+border:none;
+box-shadow:5px 5px 10px lightgray;
+
+}
+.updates{
+    height: 300px;
+}
+.form-control{
+    margin-bottom: 10px;
+}
+footer p{
+    text-align: center;
+  color: rgb(105, 99, 90);
+}
