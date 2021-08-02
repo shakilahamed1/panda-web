@@ -23,3 +23,23 @@ background-color: #FCEAE8;
     cursor: pointer;
 
 }
+
+.categori1, .categori2, .categori3{
+    padding:  10px 30px;
+    border-radius: 15px;
+}
+.categori1{
+    background-color: #FFA500;
+}
+.categori2{
+    background-color: #DA70D6;
+}
+.categori3{
+    background-color: #0000FF;
+}
+.catagoris h1{
+color: white;
+}
+.catagoris img{
+    width: 100px;
+}
